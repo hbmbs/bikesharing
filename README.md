@@ -12,6 +12,6 @@ Before getting into the details of the above mentioned story, The framework for 
 ## Results
 
 The dominant gender using the bikes are males followed by females and than others, although this isn't enough classification as the gender alone is not a key factor, as being a subscriber shows a regular usage of bikes against being a short term client.
-Now before getting more in depth about this affects the income of the project, let's view the top starting stations with the station Pershing Square North being the first
+Now before getting more in depth about this affects the income of the project, let's view the top starting stations with the station Pershing Square North being the first.
 ![top stations](worsheets/top_starting_locations.PNG)
 The above map displays the bike stations from which recorded bike trips started. The size of the circles and darkness of the red indicate the relative number of trips started at those locations. It is apparent that the bulk of the bike trips are originating in the bustling commercial heart of Lower Manhattan, as it is the busiest area and the most entrainement offering. Bike usage is lower in the less densely packed surrounding neighborhoods.
