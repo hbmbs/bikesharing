@@ -8,4 +8,4 @@ The framework for this project was to analyze bikeshare data from CitiBike in Ne
 - What bikes are to be repaired and what's the best time to repair them?
 
 ## Results
-![NYC CitiBike Customer Description](worksheets/story.png)
+![NYC CitiBike Customer Description](worksheets/story.PNG)
